@@ -44,3 +44,4 @@ targets:
       path: prpr.app/Info.plist
       properties:
         UILaunchStoryboardName: LaunchScreen
+
